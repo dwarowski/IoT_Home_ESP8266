@@ -88,8 +88,6 @@ D8     | Реле (Кондиционер)|
 •  Топики для публикации (ESP8266 -> MQTT):
   •  temperature_sensor_value_topic: Температура (в градусах Цельсия).
   •  humidity_sensor_value_topic: Влажность (в процентах).
-```
-```
   •  gas_web_value_topic: Состояние датчика газа (0 или 1).
   •  water_sensor_value_topic: Состояние датчика протечки воды (0 или 1).
   •  security_sensor_value_topic: Состояние охраны (0 или 1).
